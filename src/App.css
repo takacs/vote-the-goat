@@ -45,6 +45,7 @@
 
 * {
   background-color: rgb(28, 36, 47);
+  font-family: courier;
   /* border: 1px solid red; */
 }
 
@@ -71,4 +72,8 @@
   border-radius: 4px;
   width: 50px;
   align-self: center;
+}
+
+.goat img {
+  width: 100px;
 }
